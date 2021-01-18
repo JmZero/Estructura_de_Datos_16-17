@@ -1,2 +1,7 @@
-# Estructura_de_Datos_16-17
-Prácticas de la asignatura de EStructura de Datos - Grado Ingeniería Informática 2018/2019
+# Estructura de Datos
+
+### Jesús Miguel Jaldo Ruiz
+
+Prácticas de la asignatura de Estructura de Datos
+
+Grado Ingeniería Informática 2016/2017
